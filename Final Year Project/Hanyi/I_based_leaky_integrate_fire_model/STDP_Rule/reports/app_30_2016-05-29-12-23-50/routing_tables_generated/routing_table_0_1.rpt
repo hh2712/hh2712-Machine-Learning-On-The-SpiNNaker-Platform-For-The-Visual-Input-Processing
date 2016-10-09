@@ -1,0 +1,16 @@
+router contains 12 entries 
+ 
+  Index   Key(hex)    Mask(hex)    Route(hex)    Src. Core -> [Cores][Links]
+------------------------------------------------------------------------------
+    0     015       ffffffff      0100         (0, 0, 0)      [2] []
+    1     01a       ffffffff      02000         (0, 0, 0)      [7] []
+    2     026       ffffffff      0100         (0, 0, 0)      [2] []
+    3     014       ffffffff      080         (0, 0, 0)      [1] []
+    4     016       ffffffff      0200         (0, 0, 0)      [3] []
+    5     019       ffffffff      01000         (0, 0, 0)      [6] []
+    6     018       ffffffff      0800         (0, 0, 0)      [5] []
+    7     028       ffffffff      01000         (0, 0, 0)      [6] []
+    8     01b       ffffffff      04000         (0, 0, 0)      [8] []
+    9     029       ffffffff      04000         (0, 0, 0)      [8] []
+    10     017       ffffffff      0400         (0, 0, 0)      [4] []
+    11     027       ffffffff      0400         (0, 0, 0)      [4] []

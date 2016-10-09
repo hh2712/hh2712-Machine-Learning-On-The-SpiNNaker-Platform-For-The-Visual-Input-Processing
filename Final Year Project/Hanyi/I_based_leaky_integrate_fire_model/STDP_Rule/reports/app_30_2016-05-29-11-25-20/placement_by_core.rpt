@@ -1,0 +1,293 @@
+        Placement Information by Core
+        =============================
+
+Generated: 05/29/16 11:25:21 for target machine '192.168.240.253'
+
+**** Chip: (0, 0)
+Application cores: 18
+  Processor 1: Vertex: 'Population 2', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 2: Vertex: 'Population 3', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 3: Vertex: 'Population 6', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 4: Vertex: 'Population 7', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 5: Vertex: 'Population 10', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 6: Vertex: 'Population 11', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 7: Vertex: 'Population 14', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 8: Vertex: 'Population 15', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 9: Vertex: 'Population 18', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 10: Vertex: 'Population 19', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 11: Vertex: 'Population 22', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 12: Vertex: 'Population 23', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 13: Vertex: 'Population 26', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 14: Vertex: 'Population 27', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 15: Vertex: 'Population 30', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 16: Vertex: 'Population 31', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+**** Chip: (1, 0)
+Application cores: 18
+  Processor 1: Vertex: 'Population 34', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 2: Vertex: 'Population 35', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 3: Vertex: 'Population 38', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 4: Vertex: 'Population 39', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 5: Vertex: 'Population 42', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 6: Vertex: 'Population 43', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 7: Vertex: 'Population 46', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 8: Vertex: 'Population 47', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 9: Vertex: 'Population 50', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 10: Vertex: 'Population 51', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 11: Vertex: 'Population 54', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 12: Vertex: 'Population 55', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 13: Vertex: 'Population 0', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 14: Vertex: 'Population 1', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 15: Vertex: 'Population 4', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 16: Vertex: 'Population 5', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+**** Chip: (1, 1)
+Application cores: 18
+  Processor 1: Vertex: 'Population 8', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 2: Vertex: 'Population 9', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 3: Vertex: 'Population 12', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 4: Vertex: 'Population 13', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 5: Vertex: 'Population 16', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 6: Vertex: 'Population 17', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 7: Vertex: 'Population 20', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 8: Vertex: 'Population 21', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 9: Vertex: 'Population 24', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 10: Vertex: 'Population 25', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 11: Vertex: 'Population 28', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 12: Vertex: 'Population 29', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 13: Vertex: 'Population 32', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 14: Vertex: 'Population 33', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 15: Vertex: 'Population 36', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 16: Vertex: 'Population 37', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+**** Chip: (0, 1)
+Application cores: 18
+  Processor 1: Vertex: 'Population 40', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 2: Vertex: 'Population 41', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 3: Vertex: 'Population 44', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 4: Vertex: 'Population 45', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 5: Vertex: 'Population 48', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 6: Vertex: 'Population 49', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 7: Vertex: 'Population 52', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+
+  Processor 8: Vertex: 'Population 53', pop sz: 1
+              Slice on this core: 0:0 (1 atoms)
+              Model: IF_curr_exp
+
+

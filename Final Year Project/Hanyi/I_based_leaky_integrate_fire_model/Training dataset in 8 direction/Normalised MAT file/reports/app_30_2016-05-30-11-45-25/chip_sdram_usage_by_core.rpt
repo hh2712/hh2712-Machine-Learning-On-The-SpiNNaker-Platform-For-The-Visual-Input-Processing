@@ -1,0 +1,9 @@
+        Memory Usage by Core
+        ====================
+
+Generated: 05/30/16 11:45:27 for target machine '192.168.240.253'
+
+SDRAM requirements for core (0,0,1) is 317 KB
+SDRAM requirements for core (0,0,2) is 638 KB
+**** Chip: (0, 0) has total memory usage of 955 KB out of a max of 128 MB 
+

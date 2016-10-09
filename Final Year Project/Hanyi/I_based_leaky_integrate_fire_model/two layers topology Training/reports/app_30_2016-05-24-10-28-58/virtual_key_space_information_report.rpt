@@ -1,0 +1,8 @@
+Subvert: inputSpikes_On:0:255 
+subedge:PartitionedEdge:inputSpikes_On:0:255->post_1:0:9, keys_and_masks:[KeyAndMask:0x0L:0xffffff00L] 
+
+
+Subvert: post_1:0:9 
+subedge:PartitionedEdge:post_1:0:9->post_1:0:9, keys_and_masks:[KeyAndMask:0x100L:0xfffffff0L] 
+
+

@@ -1,0 +1,22 @@
+        Network Specification
+ =====================
+
+Generated: 06/08/16 11:59:42 for target machine '192.168.240.253'
+
+*** Vertices:
+Vertex inputSpikes_On, size: 256
+Model: SpikeSourceArray
+constraint: partitioner max atom per core constraint with size 2147483647
+constraint: tag allocator constraint
+
+Vertex post_1, size: 4
+Model: IF_curr_exp
+constraint: partitioner max atom per core constraint with size 255
+
+*** Edges:
+Edge Projection 0 from vertex: 'inputSpikes_On' (256 atoms) to vertex: 'post_1' (4 atoms)
+  Model: No Model
+
+Edge Projection 1 from vertex: 'post_1' (4 atoms) to vertex: 'post_1' (4 atoms)
+  Model: No Model
+

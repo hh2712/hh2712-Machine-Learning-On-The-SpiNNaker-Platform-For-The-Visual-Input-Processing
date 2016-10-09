@@ -1,0 +1,17 @@
+        Placement Information by Core
+        =============================
+
+Generated: 06/07/16 23:35:49 for target machine '192.168.240.253'
+
+**** Chip: (0, 0)
+Application cores: 18
+  Processor 1: Vertex: 'inputSpikes_On', pop sz: 256
+              Slice on this core: 0:255 (256 atoms)
+              Model: SpikeSourceArray
+
+
+  Processor 2: Vertex: 'post_1', pop sz: 8
+              Slice on this core: 0:7 (8 atoms)
+              Model: IF_curr_exp
+
+

@@ -1,0 +1,17 @@
+        Placement Information by Vertex
+        ===============================
+
+Generated: 06/08/16 16:21:21 for target machine '192.168.240.253'
+
+**** Vertex: 'inputSpikes_On'
+Model: SpikeSourceArray
+Pop sz: 256
+Sub-vertices: 
+  Slice 0:255 (256 atoms) 
+
+**** Vertex: 'post_1'
+Model: IF_curr_exp
+Pop sz: 4
+Sub-vertices: 
+  Slice 0:3 (4 atoms) 
+
